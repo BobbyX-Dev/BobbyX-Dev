@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm BobbyXDev</h1>
 <h3 align="center">An ongoing developer for embedded Linux systems with a big heart for the Linux kernel and most distributions.</h3>
 
-- I’m currently working on [bobbyx.dev](https://bobbyx.dev)
-
 - I’m currently learning **C**
 
-- How to reach me **github@bobbyxdev.com**
+- How to reach me **github@bobbyx.dev**
 
 - Fun fact **I use Arch btw!**
 
